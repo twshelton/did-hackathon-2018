@@ -22,7 +22,7 @@ Install virtualenv:
 
     $ pip install virtualenv
 
-# Download pb-exercises requirements
+# Download did-hackathon requirements
 
     $ git clone https://github.com/twshelton/did-hackathon-2018
     $ cd did-hackathon-2018
